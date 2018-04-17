@@ -1,0 +1,10 @@
+c:\Git\FlightPlain\Business\bin\Debug\netstandard2.0\Business.deps.json
+c:\Git\FlightPlain\Business\bin\Debug\netstandard2.0\Business.dll
+c:\Git\FlightPlain\Business\bin\Debug\netstandard2.0\Business.pdb
+c:\Git\FlightPlain\Business\bin\Debug\netstandard2.0\Data.dll
+c:\Git\FlightPlain\Business\bin\Debug\netstandard2.0\Data.pdb
+c:\Git\FlightPlain\Business\obj\Debug\netstandard2.0\Business.csproj.CoreCompileInputs.cache
+c:\Git\FlightPlain\Business\obj\Debug\netstandard2.0\Business.AssemblyInfoInputs.cache
+c:\Git\FlightPlain\Business\obj\Debug\netstandard2.0\Business.AssemblyInfo.cs
+c:\Git\FlightPlain\Business\obj\Debug\netstandard2.0\Business.dll
+c:\Git\FlightPlain\Business\obj\Debug\netstandard2.0\Business.pdb
